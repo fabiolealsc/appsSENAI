@@ -3,7 +3,7 @@ using System;
 
 class repit
 {
-    static void Main(string[] args)
+    static void Maino(string[] args)
     {
         int [] vetor = {5,4,23,4,6,23,1,2};
         int i;
