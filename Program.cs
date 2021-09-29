@@ -4,7 +4,7 @@ namespace appsSENAI
 {
     class Program
     {
-        static void Main(string[] args)
+        static void re(string[] args)
         {
             int idade;
             string nome;
