@@ -1,0 +1,16 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\bin\Debug\net5.0\appsSENAI.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\bin\Debug\net5.0\appsSENAI.deps.json
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\bin\Debug\net5.0\appsSENAI.runtimeconfig.json
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\bin\Debug\net5.0\appsSENAI.runtimeconfig.dev.json
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\bin\Debug\net5.0\appsSENAI.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\bin\Debug\net5.0\ref\appsSENAI.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\bin\Debug\net5.0\appsSENAI.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\obj\Debug\net5.0\appsSENAI.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\obj\Debug\net5.0\appsSENAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\obj\Debug\net5.0\appsSENAI.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\obj\Debug\net5.0\appsSENAI.AssemblyInfo.cs
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\obj\Debug\net5.0\appsSENAI.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\obj\Debug\net5.0\appsSENAI.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\obj\Debug\net5.0\ref\appsSENAI.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\obj\Debug\net5.0\appsSENAI.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\appsSENAI\obj\Debug\net5.0\appsSENAI.genruntimeconfig.cache
